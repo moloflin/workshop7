@@ -26,7 +26,7 @@ var initialData = {
       "_id": new ObjectID("000000000000000000000004"),
       "fullName": "John Vilk",
       // ID of your feed.
-      "feed": new ObjectID("000000000000000000000001")
+      "feed": new ObjectID("000000000000000000000004")
     }
   },
   // The 'feedItems' collection. Contains all of the feed items on our Facebook
